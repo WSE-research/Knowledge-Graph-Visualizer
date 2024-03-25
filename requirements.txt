@@ -8,5 +8,5 @@ SPARQLWrapper==2.0.0
 streamlit==1.31.1
 streamlit_agraph==0.0.45
 streamlit_tags==1.2.8
-validators==0.22.0
+validators==0.24.0
 streamlit_javascript == 0.1.5
